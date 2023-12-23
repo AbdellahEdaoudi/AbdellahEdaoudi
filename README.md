@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQH5F6n3Cr1Kdg/profile-displaybackgroundimage-shrink_350_1400/0/1702846337309?e=1708560000&v=beta&t=vvI7AFzq9zQfYgxwnbgOkEz_i7YW6Spxx3OmCPtO5wY)
 <h1 align="center">Hi 👋, I'm Abdellah Edaoudi</h1>
 <h3 align="center">A Full Stack Developer from Morocco</h3>
 <img  align="right" alt="Coding" width="400" src="https://img.freepik.com/vecteurs-libre/ordinateur-portable-icone-isometrique-code-programme-developpement-logiciels-applications-programmation-neon-sombre_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1701561600&semt=ais">
