@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdellah Edaoudi</h1>
-<h3 align="center">A Full Stack Developer from Morocco</h3>
+<h3 align="center">Full Stack Developer</h3>
 <img  align="right" alt="Coding" width="400" src="https://img.freepik.com/vecteurs-libre/ordinateur-portable-icone-isometrique-code-programme-developpement-logiciels-applications-programmation-neon-sombre_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1701561600&semt=ais">
 
 - 🌱 I’m currently learning **React Native**
